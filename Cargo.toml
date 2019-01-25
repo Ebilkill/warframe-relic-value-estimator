@@ -4,3 +4,12 @@ version = "0.1.0"
 authors = ["Bart Wijgers <bartwijgers@hotmail.com>"]
 
 [dependencies]
+chrono = "*"
+hyper = "0.12"
+hyper-tls = "*"
+tokio-core = "0.1"
+futures = "0.1"
+serde_json = "*"
+serde = "*"
+serde_derive = "*"
+
